@@ -1,0 +1,143 @@
+{
+  "light001": {
+    "Is On": false
+  },
+  "light002": {
+    "Is On": true
+  },
+  "light003": {
+    "Is On": true
+  },
+  "light004": {
+    "Is On": false
+  },
+  "light005": {
+    "Is On": true
+  },
+  "light006": {
+    "Is On": false
+  },
+  "light007": {
+    "Is On": false
+  },
+  "light008": {
+    "Is On": true
+  },
+  "light009": {
+    "Is On": false
+  },
+  "light010": {
+    "Is On": false
+  },
+  "light011": {
+    "Is On": true
+  },
+  "light012": {
+    "Is On": false
+  },
+  "light013": {
+    "Is On": false
+  },
+  "light014": {
+    "Is On": false
+  },
+  "light015": {
+    "Is On": true
+  },
+  "light016": {
+    "Is On": false
+  },
+  "light017": {
+    "Is On": true
+  },
+  "light018": {
+    "Is On": true
+  },
+  "light019": {
+    "Is On": false
+  },
+  "light020": {
+    "Is On": false
+  },
+  "light021": {
+    "Is On": false
+  },
+  "light022": {
+    "Is On": false
+  },
+  "light023": {
+    "Is On": false
+  },
+  "light024": {
+    "Is On": false
+  },
+  "speaker001": { 
+    "Notifications": 2, 
+    "song Playing": true,
+    "Song Name": "All I Want for Christmas Is You",
+    "Song Artist": "Mariah Carey"
+  },
+  "speaker002": {
+    "Notifications": 0,
+    "Song Playing": true,
+    "Song Name": "How Deep is Your Love",
+    "Song Artist": "Bee Gees"
+  },
+  "tv001": {
+    "Is On": true,
+    "Current Channel": 17
+  },
+  "lock001": {
+    "Is Locked": false
+  },
+  "lock002": {
+    "Is Locked": true
+  },
+  "lock003": {
+    "Is Locked": true
+  },
+  "bed001": {
+    "Hours Slept": 3,
+    "Sleep Quality": "Poor",
+    "Leg Rest Angle": 0,
+    "Head Rest Angle": 0
+  },
+  "bed002": {
+    "Hours Slept": 9,
+    "Sleep Quality": "Great",
+    "Leg Rest Angle": 15,
+    "Head Rest Angle": 10
+  },
+  "bed003": {
+    "Hours Slept": 7,
+    "Sleep Quality": "Good",
+    "Leg Rest Angle": 30,
+    "Head Rest Angle": 15
+  },
+  "dishwasher001": {
+    "Time Remaining": 23,
+    "Cycles": 6
+  },
+  "washer001": {
+    "Time Remaining": 15,
+    "Cycles": 10
+  },
+  "oven001": {
+    "Temperature": 300,
+    "Time Remaining": 60
+  },
+  "jacuzzi001": {
+    "Temperature": 100,
+    "Water PSI": 40
+  },
+  "garage001": {
+    "Vehicles Contained": 2,
+    "Is Open": false
+  },
+  "thermostat001": {
+    "Temperature": 73
+  },
+  "thermostat002": {
+    "Temperature": 74
+  }
+}
