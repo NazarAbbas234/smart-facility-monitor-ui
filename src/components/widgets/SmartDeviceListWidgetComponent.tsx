@@ -2,7 +2,7 @@ import * as React from "react";
 import { IModelApp } from "@itwin/core-frontend";
 import { IModelDataApi, SmartDevice } from "../apis/IModelDataApi";
 import { DeviceStatusApi } from "../apis/DeviceStatusApi";
-import "./smartdevicelistWidget.css";
+import "./SmartDeviceListWidget.css";
 import { useActiveIModelConnection } from "@itwin/appui-react";
 import { Chart as ChartJS, ArcElement, Tooltip, Legend, CategoryScale, LinearScale, BarElement } from 'chart.js';
 import { Pie, Bar } from 'react-chartjs-2';
